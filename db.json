@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Angular course2",
+      "expiryDate": "2022-07-25",
+      "price": 400.99
+    },
+    {
+      "name": "React Course",
+      "expiryDate": "2022-07-21",
+      "price": 100,
+      "id": 2
+    },
+    {
+      "name": "Vue course",
+      "expiryDate": "2022-07-21",
+      "price": 100,
+      "id": 3
+    }
+  ]
+}
